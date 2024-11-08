@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "esrun src/index.ts"
+    },
+    "dependencies": {
+        "discord.js": "^14.15.3",
+        "dotenv": "^16.4.5",
+        "esrun": "^3.2.26"
+    }
+}
